@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "email": "test@mail.ru",
+      "phone": "+7(111)1111111",
+      "city": "Saratov",
+      "country": "Russia",
+      "first_name": "Test",
+      "last_name": "Test",
+      "reg_date": 1649367846500,
+      "birth_date": 1649367846000,
+      "messages_permission": "ALL",
+      "is_blocked": false
+    },
+    {
+      "id": 7,
+      "email": "onufriy1@mail.ru",
+      "phone": "+7(999)9999999",
+      "city": "Alma-Ata",
+      "country": "Kazakhstan",
+      "first_name": "Onufriy",
+      "last_name": "Testoviy",
+      "reg_date": 1649367846500,
+      "birth_date": 1649367846000,
+      "messages_permission": "ALL",
+      "is_blocked": false
+    }
+  ]
+}

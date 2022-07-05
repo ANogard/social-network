@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "time": 1649367846502,
+      "author": {
+        "id": 2,
+        "email": "ivanov@mail.ru",
+        "phone": "+7(999)9999999",
+        "city": "Tver",
+        "country": "Russia",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "reg_date": 1649367846500,
+        "birth_date": 1649367846000,
+        "messages_permission": "ALL",
+        "last_online_time": 0,
+        "is_blocked": false,
+        "is_deleted": false
+      },
+      "title": "ivan title example",
+      "likes": 1,
+      "tags": [],
+      "comments": [],
+      "type": "POSTED",
+      "post_text": "ivan post text example",
+      "is_blocked": false,
+      "my_like": false
+    },
+    {
+      "id": 6,
+      "time": 1649367846506,
+      "author": {
+        "id": 2,
+        "email": "ivanov@mail.ru",
+        "phone": "+7(999)9999999",
+        "city": "Tver",
+        "country": "Russia",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "reg_date": 1649367846500,
+        "birth_date": 1649367846000,
+        "messages_permission": "ALL",
+        "last_online_time": 0,
+        "is_blocked": false,
+        "is_deleted": false
+      },
+      "title": "ivan title example2",
+      "likes": 0,
+      "tags": [
+        "java"
+      ],
+      "comments": [
+        {
+          "id": 6,
+          "likes": 0,
+          "time": 1649367846508,
+          "parent_id": 0,
+          "post_id": 6,
+          "comment_text": "onufriy title example",
+          "my_like": false,
+          "author": {
+            "id": 3,
+            "email": "petrov@mail.ru",
+            "phone": "+7(999)9999999",
+            "city": "Kaliningrad",
+            "country": "Russia",
+            "first_name": "Petr",
+            "last_name": "Petrov",
+            "reg_date": 1649367846500,
+            "birth_date": 1649367846000,
+            "messages_permission": "ALL",
+            "last_online_time": 0,
+            "is_blocked": false,
+            "is_deleted": false
+          },
+          "is_blocked": false,
+          "sub_comments": []
+        },
+        {
+          "id": 7,
+          "likes": 0,
+          "time": 1649367846508,
+          "parent_id": 0,
+          "post_id": 6,
+          "comment_text": "test title example 2",
+          "my_like": false,
+          "author": {
+            "id": 5,
+            "email": "ilin@mail.ru",
+            "phone": "+7(999)9999999",
+            "city": "Tbilisi",
+            "country": "Georgia",
+            "first_name": "Ilya",
+            "last_name": "Ilin",
+            "reg_date": 1649367846500,
+            "birth_date": 1649367846000,
+            "messages_permission": "ALL",
+            "last_online_time": 0,
+            "is_blocked": false,
+            "is_deleted": false
+          },
+          "is_blocked": false,
+          "sub_comments": []
+        }
+      ],
+      "type": "POSTED",
+      "post_text": "ivan post text example2",
+      "is_blocked": false,
+      "my_like": false
+    }
+  ]
+}
